@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Takeover by Akincibor!" />
+        <Header title="Takeover by Ak1nc1bor!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          [Bug Bounty Hunter - White Hat]
         </p>
       </main>
 
