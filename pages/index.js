@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           [Bug Bounty Hunter - White Hat]
         </p>
+        <p className="description">
+          Triage my report or contact me for fixing the issue ASAP: akincibor@wearehackerone.com
+        </p>
       </main>
 
       <Footer />
